@@ -1,8 +1,7 @@
-name: GitHub Actions Demo
-on:
-  workflow_dispatch:
+name: Our Build Workflow
+on: [push]
 jobs:
-  Explore-GitHub-Actions:
+  Build:
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
@@ -16,3 +15,13 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
+      - name: nvm setup 
+        run: | 
+          curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+          export NVM_DIR="$HOME/.nvm"
+          [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+          [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+          nvm --version
+          cd progetto-frontend-vanilla
+          nvm install
+          nvm use
