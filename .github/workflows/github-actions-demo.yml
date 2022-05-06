@@ -25,3 +25,4 @@ jobs:
           cd progetto-frontend-vanilla
           nvm install
           nvm use
+          npm install
