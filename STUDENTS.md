@@ -18,13 +18,13 @@
 15 - Lin
 16 - Lucchini 
 17 -
-18 -
-19 -
+18 - Pensabene
+19 - Rabosio
 20 - Santoro
 21 - Stefani
 22 - Tijani
 23 -
-24 -
+24 - Verderio
 25 - Zulini
 
 ## EOF
