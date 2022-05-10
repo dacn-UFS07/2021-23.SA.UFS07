@@ -1,6 +1,6 @@
 import "../css/index.css"
 import "../img/sun.png"
-import "../CHANGELOG.MD"
+import "../CHANGELOG.md"
 
 function onClickAlert() {
     alert(`${new Date()}`);
