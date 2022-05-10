@@ -22,7 +22,7 @@ jobs:
             [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
             [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
           nvm --version
-          cd vanilla-prj
+          cd vannila-prj
           nvm install
           nvm use
           npm install
@@ -31,4 +31,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: artefatto
-          path: ./vanilla-prj/dist
+          path: ./vannila-prj/dist
