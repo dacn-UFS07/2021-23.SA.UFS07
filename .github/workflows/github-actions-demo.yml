@@ -1,5 +1,11 @@
 name: Our Build Workflow
-on: [push]
+on:
+  push:
+    branches:
+      - '**'
+    tags-ignore:
+      - v**
+  workflow_call:
 jobs:
   Build:
     runs-on: ubuntu-latest
@@ -31,4 +37,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: artefatto
-          path: ./vannila-prj/dist
+          path: ./vannila-prj/dist/
