@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/dacn-UFS07/2021-23.SA.UFS07/compare/ds1.1.0...ds1.1.1) (2022-05-27)
+
 ## 1.1.0 (2022-05-27)
 
 
