@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.5](https://github.com/dacn-UFS07/2021-23.SA.UFS07/compare/ds1.1.4...ds1.1.5) (2022-05-27)
+
+
+### Bug Fixes
+
+* url npm registry changed ([d7f6a29](https://github.com/dacn-UFS07/2021-23.SA.UFS07/commit/d7f6a298eb97023389ca9f411bb80b63917f6c89))
+
 ### [1.1.4](https://github.com/dacn-UFS07/2021-23.SA.UFS07/compare/ds1.1.3...ds1.1.4) (2022-05-27)
 
 
