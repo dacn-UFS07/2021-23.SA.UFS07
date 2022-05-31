@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/dacn-UFS07/2021-23.SA.UFS07/compare/ds1.3.1...ds1.4.0) (2022-05-31)
+
+
+### Features
+
+* added git command in release script ([26ff67c](https://github.com/dacn-UFS07/2021-23.SA.UFS07/commit/26ff67c085264c2fb0e365c93a40042c117e58ec))
+* added github coomand in design sys ([b34a4f1](https://github.com/dacn-UFS07/2021-23.SA.UFS07/commit/b34a4f18df0519e0aa7785bae7508067e86cc67b))
+* index changed and webpack templateparams add ([9d6e23c](https://github.com/dacn-UFS07/2021-23.SA.UFS07/commit/9d6e23c40287b4fdd22131201ad300df4db45bb9))
+* package and design sys version in action ([3b48cf7](https://github.com/dacn-UFS07/2021-23.SA.UFS07/commit/3b48cf7f5c8cb011b97e684dd096a54f985b89d4))
+
+
+### Bug Fixes
+
+* package name in design sys version var ([461b209](https://github.com/dacn-UFS07/2021-23.SA.UFS07/commit/461b209fe7ebf155916414b70bd696cbf1727b32))
+
 ### [1.3.1](https://github.com/dacn-UFS07/2021-23.SA.UFS07/compare/ds1.3.0...ds1.3.1) (2022-05-31)
 
 
