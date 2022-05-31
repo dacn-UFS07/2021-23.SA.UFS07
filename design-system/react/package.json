@@ -1,6 +1,6 @@
 {
-  "name": "@my-org/progettodacnufs07",
-  "version": "1.2.1",
+  "name": "progettodacnufs07",
+  "version": "1.2.2",
   "description": "",
   "files": [
     "atoms/**",
