@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/dacn-UFS07/2021-23.SA.UFS07/compare/v1.6.0...v1.7.0) (2022-06-10)
+
+
+### Features
+
+* added github coomand in design sys ([b34a4f1](https://github.com/dacn-UFS07/2021-23.SA.UFS07/commit/b34a4f18df0519e0aa7785bae7508067e86cc67b))
+
+
+### Bug Fixes
+
+* added export in npm install ([8e85177](https://github.com/dacn-UFS07/2021-23.SA.UFS07/commit/8e851774fa6c61248a48a83cf9fc1724ecb3626f))
+* version of npm and node fixed ([4d2fc0e](https://github.com/dacn-UFS07/2021-23.SA.UFS07/commit/4d2fc0ec59699c37cbfcdf0350c7e5fa251d79e7))
+
 ## 1.6.0 (2022-05-31)
 
 
