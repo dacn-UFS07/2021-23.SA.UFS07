@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/dacn-UFS07/2021-23.SA.UFS07/compare/ds1.4.0...ds1.5.0) (2022-06-10)
+
+
+### Features
+
+* adedd inputRadio in pinput storie ([5115dcb](https://github.com/dacn-UFS07/2021-23.SA.UFS07/commit/5115dcb43f609c4f2f3e90452e27e6221eda483f))
+* input added ([3a5cfea](https://github.com/dacn-UFS07/2021-23.SA.UFS07/commit/3a5cfea694f7c0d715a80db3696588cbd627791c))
+
+
+### Bug Fixes
+
+* added export in npm install ([8e85177](https://github.com/dacn-UFS07/2021-23.SA.UFS07/commit/8e851774fa6c61248a48a83cf9fc1724ecb3626f))
+* version of npm and node fixed ([4d2fc0e](https://github.com/dacn-UFS07/2021-23.SA.UFS07/commit/4d2fc0ec59699c37cbfcdf0350c7e5fa251d79e7))
+
 ## [1.4.0](https://github.com/dacn-UFS07/2021-23.SA.UFS07/compare/ds1.3.1...ds1.4.0) (2022-05-31)
 
 
