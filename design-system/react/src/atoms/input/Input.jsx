@@ -12,17 +12,19 @@ export const Input = ({ placeholder, onData, isValid, type }) => {
       }
   }
 
-  const message = isValid ? "Valore buono" : "Valore non buono"
+  const message = isValid ? "Valore corretto" : "Valore Errato"
   return (
     <>
-      <input
+    <input id={id}
       placeholder={placeholder}
       onInput={onInput}
       type={type}
     >
     </input>
+    {label===undefined? null : <label htmlFor={id}>{label}</label>}
     {isValid === undefined ? null : message}
     </>
+
   );
 };
 

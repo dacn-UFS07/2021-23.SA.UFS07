@@ -30,8 +30,7 @@ InputRadio.args = {
   placeholder: undefined,
   type: 'radio',
   onData: undefined,
-  isValid: undefined
+  isValid: undefined,
+  id: "iRadio",
+  label: "Button"
 };
-
-
-
